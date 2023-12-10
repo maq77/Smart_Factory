@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1702146660 source:m:\projects\smartfactory\main.cpp
+	<bits/stdc++.h>
+	"smartfactory.h"
+
+1701698624 source:m:\projects\smartfactory\stack.cpp
+
+1702210185 m:\projects\smartfactory\stack.h
+	"linkedlist.h"
+	<bits/stdc++.h>
+
+1702210308 m:\projects\smartfactory\linkedlist.h
+	<bits/stdc++.h>
+
+1701782854 source:m:\projects\smartfactory\queue.cpp
+
+1702145992 m:\projects\smartfactory\queue.h
+	"linkedlist.h"
+	<bits/stdc++.h>
+
+1701864334 source:m:\projects\smartfactory\product.cpp
+
+1701872192 source:m:\projects\smartfactory\smartfactory.cpp
+
+1701955386 source:m:\projects\smartfactory\factory.cpp
+
+1702146626 m:\projects\smartfactory\smartfactory.h
+	<bits/stdc++.h>
+	"Linkedlist.h"
+	"Stack.h"
+	"Queue.h"
+	"Product.h"
+
+1702210232 m:\projects\smartfactory\product.h
+	<bits/stdc++.h>
+	<iostream>
+
